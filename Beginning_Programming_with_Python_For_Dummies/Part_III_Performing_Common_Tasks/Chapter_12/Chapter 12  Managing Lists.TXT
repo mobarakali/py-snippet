@@ -1,0 +1,9 @@
+In This Chapter
+? Defining why lists are important
+? Generating lists
+? Looking through lists
+? Working with list items sequentially
+? Changing list content
+? Locating specific information in lists
+? Putting list items in order
+? Using the Counter object to your advantage
