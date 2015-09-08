@@ -1,5 +1,8 @@
 __author__ = 'Mobarak'
 
+#creats list
+List1 = ["One", 1, "Two", True]
+
 # Page 228: Accessing List
 print(List1[1]) # >>> 1
 
@@ -14,8 +17,6 @@ print(List1[:3]) # >>> ['One', 1, 'Two']
 
 # To get last value
 print(List1[-1]) # >>> True
-
-#List1 = ["One", 1, "Two", True]
 
 print(List1[-2]) # >>> Two
 
