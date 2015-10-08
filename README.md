@@ -1,4 +1,4 @@
-# py-snippet
-Python Code Snippet
+# python-snippet
+(Python Code Snippet)
 
 All my codes will be available here!
